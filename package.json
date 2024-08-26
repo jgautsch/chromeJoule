@@ -13,7 +13,7 @@
     "bytebuffer": "^5.0.1",
     "events": "^1.1.1",
     "glob": "^7.1.2",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "material-ui": "^0.18.7",
     "protobufjs": "^6.8.0",
     "react": "^15.6.1",
